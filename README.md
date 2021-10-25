@@ -1,8 +1,8 @@
-## Weather-Frontend
+# Weather-Frontend
 
-# Prerequisites
+## Prerequisites
 Node.js
 
-# Setup
+## Setup
 1. npm install
 2. npm start
